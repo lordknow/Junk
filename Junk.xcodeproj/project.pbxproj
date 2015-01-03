@@ -21,12 +21,12 @@
 		A069C4C8151517AF0037884A /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		A069C4C9151517AF0037884A /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		A069C4CA151517AF0037884A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		A069C4CD151517AF0037884A /* Junk-Info.plist */ = {isa = PBXFileReference; path = "Junk-Info.plist"; sourceTree = "<group>"; };
+		A069C4CD151517AF0037884A /* Junk-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Junk-Info.plist"; sourceTree = "<group>"; };
 		A069C4CF151517AF0037884A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A069C4D1151517AF0037884A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A069C4D3151517AF0037884A /* Junk-Prefix.pch */ = {isa = PBXFileReference; path = "Junk-Prefix.pch"; sourceTree = "<group>"; };
+		A069C4D3151517AF0037884A /* Junk-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Junk-Prefix.pch"; sourceTree = "<group>"; };
 		A069C4D5151517AF0037884A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		A069C4D7151517AF0037884A /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		A069C4D7151517AF0037884A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A069C4D8151517AF0037884A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		A069C4DB151517AF0037884A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
